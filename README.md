@@ -17,6 +17,7 @@ If we are locally, we use the localhost IP (127.0.0.1) but If we want to use it 
   After the input of the IP, we get the music list from server by pressing L,
 We can view the music list by pressing V, we can choose with sample we want to play by pressing the number of the sample (1,2 or 3) 
 and we can quit the application by pressing Q.
+
 ![alt text](https://github.com/angeloskaps/Wav-Player/blob/ee4b9c5dec40af736e2b468e5f9e23836bc04384/client2.png)
 
 After the chose of the sample, we can play it, stop it, pause it and go back to me main menu by pressing P, S, A, X respectively.
