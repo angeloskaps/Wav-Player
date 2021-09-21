@@ -13,7 +13,7 @@ We run the server first and after the client. After this, we have to put our ser
 If we are locally, we use the localhost IP (127.0.0.1) but If we want to use it from another pc, we use the IP from PC where the servers run.
 
 <p align="center">
-  <img src="https://github.com/angeloskaps/Wav-Player/blob/26724c9cf9481d3255e9eb826605fcba7f76b0e3/client1.png)"/>
+  <img src="(https://github.com/angeloskaps/Wav-Player/blob/26724c9cf9481d3255e9eb826605fcba7f76b0e3/client1.png)"/>
 </p>
 
   After the input of the IP, we get the music list from server by pressing L,
