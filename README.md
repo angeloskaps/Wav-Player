@@ -4,7 +4,7 @@ The Project that we implemented refers to an audio streaming client–server app
 which allows multiple clients to stream audio from the server simultaneously. 
 
 
-How to run the Application
+<b>How to run the Application</b>
 
 The application, to work correctly, we must use only Wav files which must be placed in Release>music folder. 
 We have our samples in the music folder, but the user can try his own samples too.
